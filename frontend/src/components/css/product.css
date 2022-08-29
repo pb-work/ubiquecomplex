@@ -1,0 +1,18 @@
+.product-card{
+    position: absolute;
+width: 265px;
+height: 484px;
+/* left: 39px;
+top: 1294px; */
+border: 1px solid black;
+}
+.product-card img{
+    position: absolute;
+width: 263px;
+height: 263px;
+/* left: 40.11px;
+top: 1297px; */
+}
+.product-title{
+    color: black;
+}
